@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0,Talking Tom Shorts
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595020301/ei/rb8RX5HnJNTwgAeHrJOIDA/ip/86.126.199.154/id/QzsfLSP6hkI.334/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKApKEI4xx3-gzQzq3JRu6vYDQVSb8P_7EocY2ngW7_ECIFZCuVjvC7GQDiIcZ6-kd883WCt7w-wHi-nGnQs5PhGN/file/index.m3u8
+#EXTINF:0,Talking Tom and Friends
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595025451/ei/y9MRX7v4JseK8gPSgIIY/ip/86.126.199.154/id/PbP0_yYXcHU.461/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALiq1Z1PLm_0leXpYi8k3m1-HRmiIVQTNY9tCIHVRR3KAiAFKdMEjlyLdnJex-I5AlzYJSSx6QFjxHX9rU282SWjbQ%3D%3D/file/index.m3u8
+#EXTINF:0,Talking Tom Heroes
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595025784/ei/GNURX_a2KtCAgQeEx47IAQ/ip/86.126.199.154/id/keIt6LJEC44.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPdIZDrdAqy6IxZhmiJk3_ay_RfecIYwyESq9FeoLLXFAiBwN-rUZhCXMu6UkNTmbSwPphsGnVTA_jb57vXgcWMCoQ%3D%3D/file/index.m3u8
+#EXTINF:0,Rai Gulp HD
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:0,SET HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony SAB HD/H:)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony Marathi
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony YAY!
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony Aath
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony WAH
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony PAL
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony MAX HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+#EXTINF:0,Sony MAX 2
+https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index_dvr.m3u8
