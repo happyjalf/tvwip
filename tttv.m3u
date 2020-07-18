@@ -1,12 +1,16 @@
 #EXTM3U
-#EXTINF:0,Talking Tom Shorts
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595020301/ei/rb8RX5HnJNTwgAeHrJOIDA/ip/86.126.199.154/id/QzsfLSP6hkI.334/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKApKEI4xx3-gzQzq3JRu6vYDQVSb8P_7EocY2ngW7_ECIFZCuVjvC7GQDiIcZ6-kd883WCt7w-wHi-nGnQs5PhGN/file/index.m3u8
-#EXTINF:0,Talking Tom and Friends
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595025451/ei/y9MRX7v4JseK8gPSgIIY/ip/86.126.199.154/id/PbP0_yYXcHU.461/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALiq1Z1PLm_0leXpYi8k3m1-HRmiIVQTNY9tCIHVRR3KAiAFKdMEjlyLdnJex-I5AlzYJSSx6QFjxHX9rU282SWjbQ%3D%3D/file/index.m3u8
-#EXTINF:0,Talking Tom Heroes
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1595025784/ei/GNURX_a2KtCAgQeEx47IAQ/ip/86.126.199.154/id/keIt6LJEC44.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883097/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPdIZDrdAqy6IxZhmiJk3_ay_RfecIYwyESq9FeoLLXFAiBwN-rUZhCXMu6UkNTmbSwPphsGnVTA_jb57vXgcWMCoQ%3D%3D/file/index.m3u8
 #EXTINF:0,Rai Gulp HD
 https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:0,Rai Movie HD
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,Rai Premium HD
+https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0,Rai 3 SD
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w66377401.m3u8
+#EXTINF:0,Rai 4 HD
+https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:0,Rai 5 HD
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
 #EXTINF:0,SET HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
 #EXTINF:0,Sony SAB HD/H:)
@@ -24,4 +28,16 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
 #EXTINF:0,Sony MAX HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
 #EXTINF:0,Sony MAX 2
-https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index_dvr.m3u8
+https://sony247channels.akamaized.net/hls/live/2009816/MAX2/hdntl=exp=1595133552~acl=%2f*~data=hdntl~hmac=0adb0fe044fc4cea306feb4153782cd1829d9b021155541b174c0fceadfcf0c2/master_412.m3u8
+#EXTINF:0,Sony BBC Earth HD
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1595133773~acl=%2f*~data=hdntl~hmac=cbdc7a2aee7c2ef74a223586e431456c884d782db5e693c98419caa9e4b771c9/master_900.m3u8
+#EXTINF:0,Sony PIX HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/8FR5Q-WfRWCkbMq_GxZ77w/stream/c65a503e-e409-4a9e-bc45-d03eba1263ff:SIN/variant/588c062711c9d8f219e9908a99e6941f/bandwidth/hdntl=exp=1595134088~acl=%2f*~id=c086f73d-8b5f-49b2-9f11-048af8321b1e~data=hdntl~hmac=bcb29fa4045830e3494bde4f2d5596094052379fcd5d642052de836e4ec7a670/1218800.m3u8
+#EXTINF:0,Sony SIX HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/DD7fA-HgSUaLyZp9AjRYxQ/stream/e08dfd4a-1619-4f5e-b429-e1aa1b9f2872:SIN/variant/c886097bf202058ca3b3cefea5d79567/bandwidth/hdntl=exp=1595137213~acl=%2f*~id=6097a531-dd27-4404-a865-bdb82e41eccb~data=hdntl~hmac=446b7dea64d9b4bf94ef867f7c134e03f3cfbd6f355f356f6082e04fce2285c5/1218800.m3u8
+#EXTINF:0,Sony TEN 1 HD
+https://sony247channels.akamaized.net/hls/live/2004802/SONYTEN1HD/hdntl=exp=1595137369~acl=%2f*~id=65c8efa5-8974-4f3c-b348-846f83e71844~data=hdntl~hmac=862235a7497b070b50ad93e51c013842e957e6de73df33fc18b2d55eb83f0923/master_964.m3u8
+#EXTINF:0,Sony TEN 2 HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/Syu8F41-R1y_JmQ7x0oNxQ/stream/3cfd1b78-2c7d-48fa-ab5e-c85b4200eef5:SIN/variant/bc262f1a65143b785f043408e0677fb9/bandwidth/hdntl=exp=1595137440~acl=%2f*~id=4662e50c-122f-40ea-9121-fdaec9b59789~data=hdntl~hmac=3e4f8b3c0f2eb7bc48c6463d8f31671a7f03f98edf775464107c3b427edc62bc/1218800.m3u8
+#EXTINF:0,Sony TEN 3 HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/6a6ac8a5-5f05-4283-a575-a58de4f1ff62:SIN/variant/bafb8a073ad6982aba5d455007488531/bandwidth/hdntl=exp=1595137508~acl=%2f*~id=5e11b2b1-b3a9-4a65-bc3c-e18ab844a988~data=hdntl~hmac=b5190bbae40692a232f8e325c713a946e146746299f43e6bfe70235761050f95/1218800.m3u8
