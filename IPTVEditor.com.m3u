@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0 tvg-chno="1" tvg-name="Rai Gulp HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/2630px-Rai_Gulp_-_Logo_2017.svg.png" tvg-ID="   RaiGulp.it" group-title="-",Rai Gulp HD
+https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:0 tvg-chno="2" tvg-name="Rai Movie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/2977px-Rai_Movie_-_Logo_2017.svg.png" tvg-ID="   RaiMovie.it" group-title="-",Rai Movie HD
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0 tvg-chno="3" tvg-name="Rai Premium HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rai_Premium_Logo_(2010).svg/1024px-Rai_Premium_Logo_(2010).svg.png" tvg-ID="   RaiPremium.it" group-title="-",Rai Premium HD
+https://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0 tvg-chno="4" tvg-name="Rai 3 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Rai_3_HD_-_Logo_2016.svg/2105px-Rai_3_HD_-_Logo_2016.svg.png" tvg-ID="   Rai3.it" group-title="-",Rai 3 SD
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w66377401.m3u8
+#EXTINF:0 tvg-chno="5" tvg-name="Rai 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1280px-Rai_4_-_Logo_2016.svg.png" tvg-ID="   Rai4.it" group-title="-",Rai 4 HD
+https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:0 tvg-chno="6" tvg-name="Rai 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Rai_5_HD_Logo.svg/1280px-Rai_5_HD_Logo.svg.png" tvg-ID="   Rai5.it" group-title="-",Rai 5 HD
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+#EXTINF:0 tvg-chno="7" tvg-name="SET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sony_TV_New_Logo.png" tvg-ID="   SonyEntertainmentTV.in" group-title="-",SET HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="8" tvg-name="Sony SAB HD/H:)" tvg-logo="http://www.mediainfoline.com/wp-content/uploads/2016/09/sony-sab-hd-logo.jpg" tvg-ID="   SonySAB.in" group-title="-",Sony SAB HD/H:)
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="9" tvg-name="Sony Marathi" tvg-logo="https://www.sonymarathi.com/images/logo.png" tvg-ID="" group-title="-",Sony Marathi
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7031.SonyMarathi.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="10" tvg-name="Sony YAY!" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Sonyyay.png/revision/latest?cb=20190818013417" tvg-ID="" group-title="-",Sony YAY!
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="11" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/510px-Sony_Aath_logo.svg.png" tvg-ID="" group-title="-",Sony Aath
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7030.SonyAath.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="12" tvg-name="Sony WAH" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/Sony_Wah.jpg/revision/latest/scale-to-width-down/170?cb=20180603153048" tvg-ID="" group-title="-",Sony WAH
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="13" tvg-name="Sony PAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/62/Sony_pal.png" tvg-ID="   SonyPal.in" group-title="-",Sony PAL
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="14" tvg-name="Sony MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sony_MAX.svg/851px-Sony_MAX.svg.png" tvg-ID="   SonyMAX.in" group-title="-",Sony MAX HD
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+#EXTINF:0 tvg-chno="15" tvg-name="ViP Premiere HD (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2b/ViP_Premiere.svg/revision/latest/scale-to-width-down/300?cb=20190501153646" tvg-ID="   tv1000-premium-hd" group-title="-",ViP Premiere HD (RU)
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_6.m3u8
+#EXTINF:0 tvg-chno="16" tvg-name="ViP Comedy HD (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/ViP_Comedy.svg/revision/latest/scale-to-width-down/300?cb=20190501154739" tvg-ID="   tv1000-comedy-hd" group-title="-",ViP Comedy HD (RU)
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8
+#EXTINF:0 tvg-chno="17" tvg-name="ViP Megahit HD (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/ViP_Megahit.svg/revision/latest/scale-to-width-down/300?cb=20190501154437" tvg-ID="   tv1000-megahit-hd" group-title="-",ViP Megahit HD (RU)
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_6.m3u8
+#EXTINF:0 tvg-chno="18" tvg-name="FOX HD (RU)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/2/2c/Fox_hd.png/revision/latest?cb=20110408042951" tvg-ID="   fox-hd" group-title="-",FOX HD (RU)
+http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
+#EXTINF:0 tvg-chno="19" tvg-name="FOX Life HD (RU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" tvg-ID="   fox-life-hd" group-title="-",FOX Life HD (RU)
+http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+#EXTINF:0 tvg-chno="20" tvg-name="Viasat Explore (RU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_Explore_Logo.jpg" tvg-ID="   explorer-rus" group-title="-",Viasat Explore (RU)
+http://live-ng-01.more.tv/hls/Viasat_Explore_HD/index_6.m3u8
+#EXTINF:0 tvg-chno="21" tvg-name="Viasat History (RU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_History_Logo.jpg" tvg-ID="   history" group-title="-",Viasat History (RU)
+http://live-ng-01.more.tv/hls/Viasat_History_HD/master.m3u8
+#EXTINF:0 tvg-chno="22" tvg-name="Viasat Nature (RU)" tvg-logo="http://3.bp.blogspot.com/-r33WzAv8nRg/U2ZqSL6OkXI/AAAAAAAAfXA/SU6v4PH_MmQ/s1600/Viasat-Nature-logo-2014.png" tvg-ID="   viasat-nature" group-title="-",Viasat Nature (RU)
+http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
+#EXTINF:0 tvg-chno="23" tvg-name="Top Shop TV (RU)" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/2/2a/Top_Shop_TV_%282006-.n.v.%29.png/revision/latest?cb=20180302161852" tvg-ID="" group-title="-",Top Shop TV (RU)
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:0 tvg-chno="24" tvg-name="TLC HD (RU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo_TLC_HD.svg/1280px-Logo_TLC_HD.svg.png" tvg-ID="   tlc-russia-hd" group-title="-",TLC HD (RU)
+http://live-ng-01.more.tv/hls/TLC_Russia_HD/master.m3u8
+#EXTINF:0 tvg-chno="25" tvg-name="Animal Planet HD (RU)" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20110408215002" tvg-ID="   animal-hd" group-title="-",Animal Planet HD (RU)
+http://live-ng-01.more.tv/hls/Animal_Planet_HD/index_6.m3u8
+#EXTINF:0 tvg-chno="26" tvg-name="Discovery Channel HD (RU)" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" tvg-ID="   discov_rus-hd" group-title="-",Discovery Channel HD (RU)
+http://live-ng-01.more.tv/hls/Discovery_HD/master.m3u8
+#EXTINF:0 tvg-chno="27" tvg-name="Discovery Science HD (RU)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/Discovery_Science_(2011)_(Stacked).png/revision/latest?cb=20171231211838" tvg-ID="   discov_sci" group-title="-",Discovery Science HD (RU)
+http://live-ng-01.more.tv/hls/Discovery_Science_HD/master.m3u8
