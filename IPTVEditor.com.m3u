@@ -86,7 +86,7 @@ http://live-ng-01.more.tv/hls/TV1000_HD/index_4.m3u8
 #EXTINF:0 tvg-chno="43" tvg-name="Sony Sci-Fi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ec/Sony_Sci-Fi_2.png/revision/latest?cb=20170701190006" tvg-ID="   sonyscifi.ru" group-title="-",Sony Sci-Fi
 http://78.129.228.178/iptv/FXK4A2MPL5PSB6/110/index.m3u8
 #EXTINF:0 tvg-chno="44" tvg-name="Sony Turbo" tvg-logo="https://ministar.ru/upload/medialibrary/87b/87b9a9e9cca18fbc58459d4f666bc3de.png" tvg-ID="   sonyturbo.ru" group-title="-",Sony Turbo
-http://178.33.37.66/stream/E3NLT1X6SD/263.m3u8
+http://50.7.222.90:8081/sony_turbo/index.m3u8?wmsAuthSign=1de1f4d953bcef41c36dfdc2c3f082c6-1595945587-93i06i521i68
 #EXTINF:0 tvg-chno="45" tvg-name="Sony Channel (RU)" tvg-logo="https://lh3.googleusercontent.com/proxy/rk_U6YLz12u49JJ3kVe0GNJ9YjaJgTNbQG1XwiIKRcOV_WSs1rD6UijK8AczGGuwXtRJ4z9vkyY0JBZvTaD2KMZuC2njcXnQE2B4dBvKXBzjGLIz-hy3lSCHmy_E_AvXYfZBJ4tMz--KEWz-GTbfu8zenlH9K6AsfLoeI1Oq" tvg-ID="   sonychannel.ru" group-title="-",Sony Channel (RU)
 http://178.33.37.66/stream/E3NLT1X6SD/69.m3u8
 #EXTINF:0 tvg-chno="46" tvg-name="ViP Serial" tvg-logo="https://viasat-small.cdnvideo.ru/viasat/production/uploads/store/dictionaries/channels/logos/7e9a3456a7d0232aebe4c8791d334d8d.png" tvg-ID="   vipserial.ru" group-title="-",ViP Serial
